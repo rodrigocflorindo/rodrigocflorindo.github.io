@@ -2,8 +2,8 @@
 site:
   title: "Rodrigo Florindo · DevOps & SRE"
   description: "Portfólio de DevOps, SRE e Cloud: arquitetura, automação, Kubernetes, IaC e segurança com labs reproduzíveis."
-  url: "https://rodrigo.florindo.github.io"
-  base_path: ""          # use "/nome-do-repo" se publicar como Project Page
+  url: "https://rodrigocflorindo.github.io/rodrigo.florindo.github.io"
+  base_path: "/rodrigo.florindo.github.io"
   lang: "pt-BR"
 
 profile:
