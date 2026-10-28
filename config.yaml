@@ -2,13 +2,13 @@
 site:
   title: "Rodrigo Florindo · DevOps & SRE"
   description: "Portfólio de DevOps, SRE e Cloud: arquitetura, automação, Kubernetes, IaC e segurança com labs reproduzíveis."
-  url: "https://rodrigocflorindo.github.io/rodrigo.florindo.github.io"
-  base_path: "/rodrigo.florindo.github.io"
+  url: "https://rodrigocflorindo.github.io"
+  base_path: ""
   lang: "pt-BR"
 
 profile:
   name: "Rodrigo Florindo"
-  avatar: "/rodrigo.florindo.github.io/static/images/profile.jpg"
+  avatar: "/static/images/profile.jpg"
   role: "DevOps Sênior · SRE · Cloud Engineer"
   headline: "Construo plataformas cloud confiáveis, automatizadas e seguras — do Terraform ao Kubernetes, com GitOps e observabilidade."
   about: |
