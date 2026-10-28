@@ -16,7 +16,7 @@ profile:
     o problema, a arquitetura, as decisões técnicas e como executar o lab.
   location: "Brasil"
   open_to: ["DevOps Sênior", "Cloud Engineer", "SRE", "Arquiteta de Soluções"]
-  linkedin: ""
+  linkedin: "https://www.linkedin.com/in/rodrigocflorindo/"
   email: ""
   resume: ""             # link para o CV em PDF (opcional)
 
