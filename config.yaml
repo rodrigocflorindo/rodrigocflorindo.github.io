@@ -35,15 +35,15 @@ skills:
   - group: "Cloud"
     items: ["Oracle Cloud (OCI)", "AWS", "Azure", "GCP", "Landing Zones", "IAM & Networking", "LocalStack"]
   - group: "Containers & Orquestração"
-    items: ["Kubernetes (CKA)", "Helm", "Docker", "Operators / CRDs", "Crossplane"]
+    items: ["Kubernetes (CKA)", "Helm", "Docker", "Operators / CRDs", "Crossplane", "HPA", "Karpenter", "KEDA"]
   - group: "IaC & GitOps"
-    items: ["Terraform", "Crossplane", "Argo CD", "GitHub Actions", "CI/CD"]
+    items: ["Terraform", "Crossplane", "Argo CD", "GitHub Actions", "GitLab", "CI/CD"]
   - group: "SRE & Observabilidade"
-    items: ["SLI/SLO", "Prometheus", "Grafana", "DATADOG", "Dynatrace", "Incident Response", "Autoscaling"]
+    items: ["SLI/SLO", "Grafana", "DATADOG", "Dynatrace", "Dashboards", "Monitors", "Incident Response", "Autoscaling"]
   - group: "Segurança"
     items: ["Least Privilege / IAM", "Secrets Management", "Policy as Code", "Supply chain"]
-  - group: "Automação"
-    items: ["Python", "Bash", "API Gateway"]
+  - group: "Automação e IA"
+    items: ["Python", "Bash", "API Gateway", "Claude Code", "Devin", "Microsoft Copilot", "Amazon Q", "Gemini"]
   - group: "Capacity"
     items: ["AutoScale", "Performance", "Storage", "Network"]
   - group: "FinOps"
