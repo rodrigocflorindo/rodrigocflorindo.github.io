@@ -1,9 +1,9 @@
-# rodrigo.florindo.github.io — Portfólio DevOps / SRE
+# rodrigocflorindo.github.io — Portfólio DevOps / SRE
 
 Site estático gerado em **Python** a partir dos repositórios públicos do GitHub de [@rodrigocflorindo](https://github.com/rodrigocflorindo).
 Cada repositório vira automaticamente um **artigo** com a explicação e o **lab** (README) do projeto. Hospedagem gratuita no GitHub Pages, sem backend.
 
-**Site:** https://rodrigo.florindo.github.io
+**Site:** https://rodrigocflorindo.github.io
 
 ## Como funciona
 
@@ -56,7 +56,7 @@ jobs:
       - run: |
           curl -sf -X POST -H "Authorization: Bearer ${{ secrets.PORTFOLIO_TOKEN }}" \
             -H "Accept: application/vnd.github+json" \
-            https://api.github.com/repos/rodrigocflorindo/rodrigo.florindo.github.io/dispatches \
+            https://api.github.com/repos/rodrigocflorindo/rodrigocflorindo.github.io/dispatches \
             -d '{"event_type":"new-project"}'
 ```
 
