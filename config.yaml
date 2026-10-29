@@ -9,16 +9,16 @@ site:
 profile:
   name: "Rodrigo Florindo"
   avatar: "/static/images/profile.jpg"
-  role: "DevOps Sênior · SRE · Cloud Engineer"
-  headline: "Construo plataformas cloud confiáveis, automatizadas e seguras — do Terraform ao Kubernetes, com GitOps e observabilidade."
+  role: "Site Reliability Engineer · DevOps · Cloud Engineer"
+  headline: "Implantaçãoe e Sustentação de plataformas cloud confiáveis, automatizadas e seguras — do Terraform ao Kubernetes, com observabilidade."
   about: |
-    Engenheira DevOps/SRE com foco em plataformas cloud (OCI e AWS), Kubernetes, Infraestrutura como Código e GitOps.
+    Engenheiro SRE/DevOps com foco em plataformas cloud (AWS, Azure, GCP), Kubernetes, Infraestrutura como Código e GitOps.
     Este portfólio reúne **laboratórios reproduzíveis**: cada projeto tem o código no GitHub e um artigo explicando
     o problema, a arquitetura, as decisões técnicas e como executar o lab.
   location: "Brasil"
-  open_to: ["DevOps Sênior", "Cloud Engineer", "SRE", "Arquiteta de Soluções"]
+  open_to: ["SRE",  "DevOps", "Cloud Engineer", "Arquiteto de Soluções"]
   linkedin: "https://www.linkedin.com/in/rodrigocflorindo/"
-  email: ""
+  email: "rodrigocflorindo@gmail.com"
   resume: ""             # link para o CV em PDF (opcional)
 
 github:
