@@ -10,7 +10,7 @@ profile:
   name: "Rodrigo Florindo"
   avatar: "/static/images/profile.jpg"
   role: "Site Reliability Engineer · DevOps · Cloud Engineer"
-  headline: "Implantaçãoe e Sustentação de plataformas cloud confiáveis, automatizadas e seguras — do Terraform ao Kubernetes, com observabilidade."
+  headline: "Implantação e Sustentação de plataformas cloud confiáveis, automatizadas e seguras — do Terraform ao Kubernetes, com observabilidade."
   about: |
     Engenheiro SRE/DevOps com foco em plataformas cloud (AWS, Azure, GCP), Kubernetes, Infraestrutura como Código e GitOps.
     Este portfólio reúne **laboratórios reproduzíveis**: cada projeto tem o código no GitHub e um artigo explicando
@@ -27,26 +27,27 @@ github:
   include_archived: false
   # Só repos PÚBLICOS com este topic entram no site. Deixe "" para publicar todos os repos públicos.
   required_topic: "portfolio"
-  exclude:
-    - joycepassoszup     # repo de configuração do perfil
-    - joydocs            # template de documentação (remova daqui quando tiver conteúdo)
 
 # Repositórios em destaque na home (também pode usar `featured: true` em content/projects/<repo>.md)
 featured: []
 
 skills:
   - group: "Cloud"
-    items: ["Oracle Cloud (OCI)", "AWS", "Landing Zones", "IAM & Networking", "LocalStack"]
+    items: ["Oracle Cloud (OCI)", "AWS", "Azure", "GCP", "Landing Zones", "IAM & Networking", "LocalStack"]
   - group: "Containers & Orquestração"
     items: ["Kubernetes (CKA)", "Helm", "Docker", "Operators / CRDs", "Crossplane"]
   - group: "IaC & GitOps"
     items: ["Terraform", "Crossplane", "Argo CD", "GitHub Actions", "CI/CD"]
   - group: "SRE & Observabilidade"
-    items: ["SLI/SLO", "Prometheus", "Grafana", "Incident Response", "Autoscaling"]
+    items: ["SLI/SLO", "Prometheus", "Grafana", "DATADOG", "Dynatrace", "Incident Response", "Autoscaling"]
   - group: "Segurança"
     items: ["Least Privilege / IAM", "Secrets Management", "Policy as Code", "Supply chain"]
   - group: "Automação"
-    items: ["Python", "Bash", "Serverless (OCI Functions)", "API Gateway"]
+    items: ["Python", "Bash", "API Gateway"]
+  - group: "Capacity"
+    items: ["AutoScale", "Performance", "Storage", "Network"]
+  - group: "FinOps"
+    items: ["Cost Optimization", "Best Practices", "Reports", "Financial Analysis", "Budget", "Forecast"]
 
 # Regras para classificar projetos automaticamente (topics, nome, descrição, linguagem e README)
 categories:
