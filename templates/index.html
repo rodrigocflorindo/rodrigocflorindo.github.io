@@ -14,7 +14,7 @@
         {% if profile.resume %}<a class="btn btn-ghost" href="{{ profile.resume }}" target="_blank" rel="noopener">Currículo</a>{% endif %}
       </div>
       {% if profile.open_to %}
-      <p class="open-to">Aberta a oportunidades: {% for r in profile.open_to %}<span class="pill">{{ r }}</span>{% endfor %}</p>
+      <p class="open-to">Aberto a oportunidades: {% for r in profile.open_to %}<span class="pill">{{ r }}</span>{% endfor %}</p>
       {% endif %}
     </div>
     <div class="terminal" aria-hidden="true">
